@@ -1,6 +1,6 @@
 # Socket
 
-TCP socket
+TCP socket.
 
 ## Status
 

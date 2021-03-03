@@ -1,0 +1,6 @@
+project: socket
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: Socket
+html_title: Socket
+github_url: JoelLefkowitz/socket

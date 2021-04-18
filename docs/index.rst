@@ -1,7 +1,7 @@
-Socket
+Snake
 ============
 
-Welcome to Socket's documentation!
+Welcome to Snake's documentation!
 
 .. raw:: html
    :file: README.html
